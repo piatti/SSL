@@ -1,6 +1,6 @@
 # Sintaxis y Semántica de los Lenguajes
 
-Nicolas Piatti
-152.977-8
-piatti.nicolass@gmail.com
-K2051
+* Nombre: Nicolas Piatti
+* Legajo: 152.977-8
+* Email: piatti.nicolass@gmail.com
+* Curso: K2051
