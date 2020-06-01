@@ -56,3 +56,25 @@ int main(void){
 
 ### Restricciones
 El programa ejemplo debe enviar por stdout la frase La respuesta es 42, elvalor 42 debe surgir de una variable.
+
+### Resolucion
+
+2. gcc -E hello2.c -o hello2.i Sigue siendo legible, se importan librerias estandar
+
+4. Es el prototipo de printf
+
+5. Haciendo un dif ala unica diferencia esta en el encabezado de hello3.i
+
+6. No se puede compilar por un warning en la definicion de prontf. Sugiere la declaracion printf
+
+8. Es hello4.c en assembler
+
+9. Error en la referencia de prontf
+
+10. No se puede generar el ejecutable
+
+12. Se genera el ejecutable pero la respuesta no es la esperada
+
+13. En este caso se genera el ejecutable y la respuesta es la esperada
+
+15. A pesar de la advertencia del compilador por la falta del prototipo de la funcion printf el linker logra en encontrar la definiciones
